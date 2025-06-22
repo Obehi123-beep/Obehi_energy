@@ -1,0 +1,2464 @@
+
+/* Smallest devices */
+@media (min-width: 001px) and (max-width: 279px) {
+    
+  .headerx a{
+    font-size: 11px;
+    padding-left: 3px;
+    
+
+  }
+  .headerx {
+    display: none;
+  }
+
+  .header2 {
+    display: none;
+  }
+  .header3 {
+    display: none;
+  }
+  .logox img {
+    margin-left: 40px;
+  }
+  .magx {
+    margin-left: 140px;
+    margin-top: -40px;
+  }
+  .buttonxx {
+    display: none;
+  }
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+    margin-top: 2px;
+  }
+
+  .copyxx h3 {
+    margin-top: 10px;
+    font-size: 10px;
+    margin-left: 10px;
+  }
+
+  .iconxxx {
+    margin-left: -35%;
+  }
+
+  .imp h3 {
+    margin-left: 20px;
+  }
+  .imp p {
+    margin-left: 20px;
+  }
+  .faq h5 {
+    margin-left: 5px;
+    font-size: 20px;
+  }
+  .faq h4 {
+    margin-left: 8px;
+    font-size: 18px;
+  }
+  .faq p {
+    margin-left: -3px;
+    font-size: 10px;
+  }
+  .faq h6 a {
+    margin-left: 25px;
+    font-size: 13px;
+  }
+  .faq h3 {
+    margin-left: 24px;
+    width: 80px;
+  }
+
+  .bella {
+    margin-top: -2px;
+  }
+  .faq1 h5 {
+    margin-left: 5px;
+    font-size: 16px;
+  }
+  .faq1 h3 {
+    margin-left: 5px;
+    font-size: 15px;
+  }
+  .faq1 p {
+    margin-left: 5px;
+    font-size: 10px;
+  }
+  .faq1 h6 a {
+    margin-left: 35px;
+    font-size: 13px;
+  }
+  .faq1 h4 {
+    margin-left: 30px;
+    width: 80px;
+  }
+  .good {
+    display: none;
+  }
+  .searxx {
+    display: none;
+  }
+  .artox {
+    margin-top: -120px;
+  }
+  .logo4x img {
+    margin-left: 40px;
+  }
+  .mapux {
+    margin-left: -90px;
+    margin-left: 10px;
+  }
+  .bisi {
+    margin-left: -60px;
+    margin-top: -10px;
+  }
+  .yaa {
+    margin-left: -30px;
+    margin-top: 20px;
+  }
+  .bilx {
+    margin-left: 20px;
+  }
+  .paybillx {
+    font-size: 12px;
+    margin-left: -110px;
+  }
+  .hellepx {
+    display: none;
+  }
+  .paybillx h2 {
+    margin-left: 130px;
+  }
+  .form-controlx {
+    margin-left: 80px;
+    margin-top: -0px;
+  }
+  .footerxx {
+    margin-top: 60px;
+  }
+  .whistlex h3 {
+    margin-left: -20px;
+    font-size: 12px;
+  }
+  .whistlex p {
+    margin-left: -20px;
+    font-size: 10px;
+  }
+  .platformx h3 {
+    font-size: 5px;
+    margin-left: -1px;
+  }
+  .platformx img {
+    width: 150px;
+  }
+  .platformx p {
+    font-size: 10px;
+    margin-left: -2px;
+  }
+  .platformx h4 {
+    font-size: 10px;
+    margin-left: -2px;
+  }
+  .platxxx {
+    font-size: 8px;
+    margin-left: -2px;
+  }
+  .whistlecardxx {
+    margin-left: -2px;
+    
+  }
+  .whistlecardxx a {
+    margin-top: 10px;
+  }
+  .quickparent {
+    margin-left: -2px;
+  }
+  .faqsonmapx {
+    display: none;
+  }
+  .metxx {
+    margin-left: -50px;
+  }
+  .applixxx h3 {
+    font-size: 12px;
+  }
+  .assetsproviderx {
+    margin-left: -5px;
+    font-size: 2px;
+  }
+  .stipulatex {
+    margin-left: -5px;
+    font-size: 2px;
+  }
+  .nerceligiblexx h5 {
+    font-size: 15px;
+    margin-left: -10px;
+  }
+  .nerceligiblexx p {
+    font-size: 8px;
+    margin-left: 20px;
+  }
+  .nerceligiblexx img {
+    margin-left: -20px;
+    width: 150px;
+    height: auto;
+  }
+  .carousel-caption h5 {
+    display: none;
+   }
+   .carousel-caption p {
+     display: none;
+   }
+   .carousel-dots {
+    display: none;
+   }
+  
+
+
+  
+
+
+
+
+
+
+
+  
+}
+
+/* Smallest devices (phones, less than 280px) */
+@media (min-width: 280px) and (max-width: 300px) {
+    
+  .headerx a{
+    font-size: 11px;
+    padding-left: 3px;
+    
+
+  }
+  .headerx {
+    padding-left: 2px;
+    padding-top: 6px;
+  }
+  .buttonxx {
+    display: none;
+  }
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+    margin-top: 2px;
+  }
+
+  .copyxx h3 {
+    margin-top: 10px;
+    font-size: 12px;
+    margin-left: 10px;
+  }
+
+  .iconxxx {
+    margin-left: 10%;
+  }
+
+  .imp h3 {
+    margin-left: 20px;
+  }
+  .imp p {
+    margin-left: 20px;
+  }
+  .faq h5 {
+    margin-left: 5px;
+  }
+  .faq h4 {
+    margin-left: 40px;
+  }
+  .faq p {
+    margin-left: -3px;
+    font-size: 14px;
+  }
+  .faq h6 a {
+    margin-left: 135px;
+  }
+  .faq h3 {
+    margin-left: 130px;
+  }
+
+  .bella {
+    margin-top: -2px;
+  }
+  .faq1 h5 {
+    margin-left: 65px;
+  }
+  .faq1 h3 {
+    margin-left: 5px;
+  }
+  .faq1 p {
+    margin-left: 5px;
+  }
+  .faq1 h6 a {
+    margin-left: 135px;
+  }
+  .faq1 h4 {
+    margin-left: 130px;
+  }
+  .good {
+    display: none;
+  }
+}
+
+
+
+
+
+
+/* Smaller devices (phones, less than 300px) */
+@media (min-width: 301px) and (max-width: 371px) {
+    
+      .headerx a{
+        font-size: 10px;
+        padding-left: 3px;
+        
+
+      }
+      .headerx {
+        padding-left: 2px;
+        padding-top: 6px;
+        margin-top: -3px;
+      }
+      .buttonxx {
+        display: none;
+      }
+      .carousel-item img {
+        width: 100%;
+        height: auto;
+      }
+
+      .copyxx h3 {
+        margin-top: 10px;
+        font-size: 10px;
+        margin-left: 30px;
+      }
+
+      .iconxxx {
+        margin-left: 10%;
+        margin-top: -10px;
+      }
+
+      .imp h3 {
+        margin-left: 20px;
+      }
+      .imp p {
+        margin-left: 20px;
+      }
+      .faq h5 {
+        margin-left: 1px;
+      }
+      .faq h4 {
+        margin-left: 1px;
+      }
+      .faq p {
+        margin-left: 3px;
+        font-size: 12px;
+      }
+      .faq h6 a {
+        margin-left: 120px;
+      }
+      .faq h3 {
+        margin-left: 116px;
+      }
+
+      .bella {
+        margin-top: -2px;
+      }
+      .faq1 h5 {
+        margin-left: 5px;
+        font-size: 50px;
+      }
+      .faq1 h3 {
+        margin-left: 5px;
+      }
+      .faq1 p {
+        margin-left: 5px;
+        font-size: 15px;
+      }
+      .faq1 h6 a {
+        margin-left: 110px;
+      }
+      .faq1 h4 {
+        margin-left: 110px;
+      }
+      .head3x {
+        display: none;
+      }
+      .head2xx {
+        display: none;
+      }
+      #ttr {
+        display: none;
+      }
+
+      .headerx li{
+        padding-left: 10px;
+
+      }
+      .logox img {
+        width: 150px;
+      }
+      .magx {
+        margin-left: 290px;
+        margin-top: -40px;
+      }
+      .mapux  {
+        margin-left: -10px;
+      }
+      .mapux h2 {
+        margin-left: 30px;
+      }
+      .bisi {
+        margin-left: 10px;
+        margin-top: 40px;
+      }
+      .yaa {
+        margin-left: 10px;
+        margin-top: -5px;
+      }
+      .socialxx h3 {
+        margin-top: -20px;
+        margin-left: 50px;
+      }
+      .socialxx{
+        margin-left: -35px;
+      }
+      .good {
+        display: none;
+      }
+      .logo4x img {
+        width: 100px;
+        margin-left: 100px;
+      }
+      .searxx {
+        display: none;
+      }
+      .acctx {
+        margin-top: 8px;
+        margin-left: -40px;
+      }
+      .acctx  h4 {
+       font-size: 15px;
+       
+      }
+      .acctx p {
+        display: none;
+      }
+      .form-controllerx {
+        width: 220px;
+        font-size: 10px;
+        margin-top: -150px;
+      }
+      .greggxx {
+        margin-top: -190px;
+        margin-left: 100px;
+      }
+
+      .footerxx {
+        margin-top:15px;
+        font-size: 15px;
+      }
+      .artox {
+        margin-top: -100px;
+      }
+      #nehita a {
+        font-size: 10px;
+        
+      }
+      .hellepx {
+        display: none;
+      }
+      .bilx {
+        margin-left: 20px;
+      }
+      .billyxx {
+        margin-left: -23px;
+      }
+      .platformx h3 {
+        font-size: 10px;
+        margin-left: 20px;
+      }
+      .platformx p {
+        font-size: 11px;
+        margin-left: 20px;
+      }
+      .platxxx {
+        font-size: 10px;
+        margin-left: 20px;
+      }
+      .platformx h4 {
+        font-size: 12px;
+      }
+      .whistlecardxx {
+        margin-left: 20px;
+      }
+      .quickparent {
+        margin-left: 20px;
+      }
+      .platformx img {
+        margin-left: -px;
+        width: 333px;
+      }
+      .assetsproviderx {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+      .stipulatex {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+      .nerceligiblexx h5 {
+        font-size: 15px;
+        margin-left: -1px;
+      }
+      .nerceligiblexx img {
+        margin-left: -20px;
+        width: 350px;
+        height: auto;
+      }
+      .nerceligiblexx p {
+        font-size: 12px;
+      }
+      .carousel-caption h5 {
+        font-size: 10px;
+       }
+       .carousel-caption p {
+         font-size: 8px;
+       }
+      
+      
+
+
+
+
+}
+
+
+/* Smaller devices (phones, less than 300px) */
+@media (min-width: 372px) and (max-width: 411px) {
+    
+  .headerx a{
+    font-size: 11px;
+    padding-left: 3px;
+    
+
+  }
+  .headerx {
+    padding-left: 2px;
+    padding-top: 6px;
+  }
+  .buttonxx {
+    display: none;
+  }
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+  }
+
+  .copyxx h3 {
+    margin-top: 10px;
+    font-size: 12px;
+    margin-left: 30px;
+  }
+
+  .iconxxx {
+    margin-left: 10%;
+    margin-top: -10px;
+  }
+
+  .imp h3 {
+    margin-left: 20px;
+  }
+  .imp p {
+    margin-left: 20px;
+  }
+  .faq h5 {
+    margin-left: 1px;
+  }
+  .faq h4 {
+    margin-left: 1px;
+  }
+  .faq p {
+    margin-left: 3px;
+    font-size: 12px;
+  }
+  .faq h6 a {
+    margin-left: 120px;
+  }
+  .faq h3 {
+    margin-left: 116px;
+  }
+
+  .bella {
+    margin-top: -2px;
+  }
+  .faq1 h5 {
+    margin-left: 5px;
+    font-size: 50px;
+  }
+  .faq1 h3 {
+    margin-left: 5px;
+  }
+  .faq1 p {
+    margin-left: 5px;
+    font-size: 15px;
+  }
+  .faq1 h6 a {
+    margin-left: 110px;
+  }
+  .faq1 h4 {
+    margin-left: 110px;
+  }
+  .head3x {
+    display: none;
+  }
+  .head2xx {
+    display: none;
+  }
+  #ttr {
+    display: none;
+  }
+
+  .headerx li{
+    padding-left: 10px;
+
+  }
+  .logox img {
+    width: 150px;
+  }
+  .magx {
+    margin-left: 290px;
+    margin-top: -40px;
+  }
+  .mapux  {
+    margin-left: -10px;
+  }
+  .mapux h2 {
+    margin-left: 30px;
+  }
+  .bisi {
+    margin-left: 10px;
+    margin-top: 40px;
+  }
+  .yaa {
+    margin-left: 10px;
+    margin-top: -5px;
+  }
+  .socialxx h3 {
+    margin-top: -20px;
+    margin-left: 50px;
+  }
+  .socialxx{
+    margin-left: -35px;
+  }
+  .good {
+    display: none;
+  }
+  .logo4x img {
+    width: 200px;
+    margin-left: 80px;
+  }
+  .searxx {
+    display: none;
+  }
+  .acctx {
+    margin-top: -5px;
+    margin-left: -20px;
+  }
+  .acctx  h4 {
+   font-size: 12px;
+  }
+  .acctx p {
+    margin-top: -5px;
+    font-size: 10px;
+  }
+  .form-controllerx {
+    width: 220px;
+    font-size: 12px;
+    margin-top: -150px;
+  }
+  .greggxx {
+    margin-top: -200px;
+    margin-left: 100px;
+  }
+
+  .footerxx {
+    margin-top: 3px;
+    font-size: 15px;
+  }
+  .artox {
+    margin-top: -100px;
+  }
+  .hellepx {
+    display: none;
+  }
+  .bilx {
+    margin-left: 30px;
+  }
+  .billyxx {
+    margin-left: -30px;
+  }
+  .paybillx h2 {
+    margin-left: 140px;
+  }
+  .platformx h3 {
+    font-size: 12px;
+    margin-left: 20px;
+  }
+  .platformx p {
+    font-size: 11px;
+    margin-left: 20px;
+  }
+  .platxxx {
+    font-size: 10px;
+    margin-left: 20px;
+  }
+  .platformx h4 {
+    font-size: 12px;
+  }
+  .whistlecardxx {
+    margin-left: 20px;
+  }
+  .quickparent {
+    margin-left: 20px;
+  }
+  .platformx img {
+    margin-left: -px;
+    width: 400px;
+  }
+  .assetsproviderx {
+    margin-left: -5px;
+    font-size: 6px;
+  }
+  .stipulatex {
+    margin-left: -5px;
+    font-size: 6px;
+  }
+  .nerceligiblexx h5 {
+    font-size: 15px;
+    margin-left: -1px;
+  }
+  .nerceligiblexx img {
+    margin-left: -20px;
+    width: 350px;
+    height: auto;
+  }
+  .carousel-caption h5 {
+    font-size: 10px;
+   }
+   .carousel-caption p {
+     font-size: 8px;
+   }
+
+  
+
+
+
+
+
+
+
+  
+}
+
+/* Small devices (phones, less than 412px) */
+@media (min-width: 412px) and (max-width: 575px) {
+    .head3x {
+        display: none;
+      }
+      .head2xx {
+        display: none;
+      }
+      #ttr {
+        display: none;
+      }
+
+      .headerx li{
+        padding-left: 10px;
+
+      }
+      .headerx a{
+        font-size: 11px;
+        padding-left: 3px;
+        
+    
+      }
+      .headerx {
+        padding-left: 2px;
+        padding-top: 6px;
+      }
+      .logox img {
+        width: 30%;
+        height: auto;
+        margin-left: 35%;
+      }
+      .buttonxx {
+        display: none;
+      }
+      .carousel-item img {
+        width: 100%;
+        height: auto;
+      }
+      .copyxx h3 {
+        margin-top: 10px;
+        margin-left: 20px;
+        font-size: 12px;
+      }
+
+      .iconxxx {
+        margin-left: 10%;
+      }
+      .faq h5 {
+      margin-left: 20px;
+      }
+      .faq h4 {
+        margin-left: 20px;
+      }
+      .faq p {
+        margin-left: 4px;
+        font-size: 15px;
+      }
+      .faq h6 {
+      margin-left: -80px;
+      }
+      .faq h3 {
+        margin-left: 148px;
+      }
+      .bella {
+        margin-top: -4px;
+      }
+      .faq1 h5 {
+        margin-left: 12px;
+        font-size: 40px;
+      }
+      .faq1 h3 {
+        margin-left: 12px;
+      }
+      .faq1 p {
+        margin-left: 20px;
+      }
+      .faq1 h6 {
+        margin-left: -100px;
+      }
+      .faq1 h4 {
+        margin-left: 148px;
+      }
+      .magx {
+        margin-left: 330px;
+        margin-top: -40px;
+      }
+
+      .logo4x img {
+        width: 180px;
+        margin-left: 100px;
+      }
+      .seaiconxx {
+       display: none;
+      }
+      .searxx {
+        display: none;
+      }
+
+      .mapux  {
+        margin-left: 30px;
+      }
+      .bisi {
+        margin-left: 10px;
+        margin-top: 40px;
+      }
+      .yaa {
+        margin-left: 10px;
+        margin-top: -5px;
+      }
+      .socialxx h3 {
+        margin-top: -20px;
+        margin-left: 50px;
+      }
+      .good {
+        display: none;
+      }
+
+      .acctx {
+        margin-top: -10px;
+        margin-left: -20px;
+      }
+      .acctx  h4 {
+       font-size: 12px;
+      }
+      .acctx p {
+        margin-top: -5px;
+        font-size: 10px;
+      }
+      .form-controllerx {
+        width: 280px;
+        font-size: 12px;
+        margin-top: -8px;
+        margin-left: 2px;
+      }
+      .greggxx {
+        margin-top: -200px;
+        margin-left: 100px;
+      }
+
+      .footerxx {
+        margin-top: 10px;
+        font-size: 15px;
+      }
+      .magnesium {
+        margin-left: 330px;
+        margin-top: -40px;
+      }
+      .hellepx {
+        margin-left: 280px;
+        margin-top:-85px;
+      }
+      .bilx {
+        margin-left: 30px;
+        font-size: 12px;
+        
+      }
+      .powered1xx h5 {
+        margin-left: 15px;
+      }
+      .footerxx3 {
+        margin-top: -50px;
+      }
+      .platformx h3 {
+        font-size: 13px;
+        margin-left: 20px;
+      }
+      .platformx p {
+        font-size: 11px;
+        margin-left: 20px;
+      }
+      .platxxx {
+        font-size: 10px;
+        margin-left: 20px;
+      }
+      .platformx h4 {
+        font-size: 12px;
+      }
+      .whistlecardxx {
+        margin-left: 20px;
+      }
+      .quickparent {
+        margin-left: 20px;
+      }
+      .platformx img {
+        margin-left: -px;
+        width: 400px;
+      }
+      .assetsproviderx {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+      .stipulatex {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+      .nerceligiblexx img {
+        margin-left: -20px;
+        width: 400px;
+        height: auto;
+      }
+      .nerceligiblexx h5 {
+        font-size: 18px;
+        margin-left: -5px;
+      }
+      .carousel-caption h5 {
+       font-size: 10px;
+      }
+      .carousel-caption p {
+        font-size: 8px;
+      }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+
+
+
+  
+  /* Medium devices (tablets, 576px to 719.98px) */
+  @media (min-width: 576px) and (max-width: 719px) {
+    .head3x {
+        display: none;
+      }
+      .head2xx {
+        display: none;
+      }
+      .headerx li{
+        padding-left: 20px;
+        padding-top: 4px;
+
+      }
+      .logox img {
+        width: 30%;
+        height: auto;
+        margin-left: 35%;
+      }
+      .buttonxx {
+        display: none;
+      }
+      .carousel-item img {
+        width: 100%;
+        height: auto;
+      }
+      .copyxx {
+        margin-top: 20px;
+      }
+
+      .iconxxx {
+        margin-left: 10%;
+      }
+      .good {
+        display: none;
+      }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+
+  /* 
+  big tablets/small laptops */
+
+  @media (min-width: 720px) and (max-width: 750px) {
+    .carousel-item img {
+        width: 100%;
+        height: auto;
+      }
+
+      .copyxx h3 {
+        margin-top: 20px;
+       margin-left: 50px;
+       font-size: 16px;
+      }
+      
+      .iconxxx li {
+        margin-left: 20px;
+      }
+      .faq h5 {
+        margin-left: 140px;
+      }
+      .faq h4 {
+        margin-left: 230px;
+      }
+      .faq p {
+        margin-left: 160px;
+      }
+      .faq h6 {
+        margin-left: 63px;
+      }
+      .faq h3 {
+        margin-left: 290px;
+      }
+
+      .faq1 h5 {
+       margin-left: 160px;
+      }
+      .faq1 h3 {
+        margin-left: 190px;
+      }
+      .faq1 p {
+        margin-left: 180px;
+      }
+      .faq1 h6 {
+        margin-left: 45px;
+      }
+      .faq1 h4 {
+       margin-left:290px ;
+      }
+
+      .iconxxx {
+        margin-left: 400px;
+        margin-top: -40px;
+      }
+      .headerx {
+        margin-top: 10px;
+        font-size: 10px;
+       padding-left: 10px;
+       margin-left: 150px;
+      }
+      
+      .logox img {
+        margin-left: 20px;
+        width: 100px;
+      }
+      .nav-item a {
+        font-size: 11px;
+        margin-left: 600px;
+      }
+      
+      
+      .bella {
+        margin-top: -1px;
+      }
+      .carousel-item h5 {
+        font-size: 38px;
+       }
+       .carousel-item p {
+        font-size: 20px;
+       }
+       .magx {
+        margin-left: 320px;
+        margin-top: -30px;
+       }
+       .mapux  {
+        margin-left: -10px;
+      }
+      .mapux h2 {
+        margin-left: 30px;
+      }
+      .bisi {
+        margin-left: 10px;
+        margin-top: 40px;
+      }
+      .yaa {
+        margin-left: 10px;
+        margin-top: -5px;
+      }
+      .socialxx h3 {
+        margin-top: -20px;
+        margin-left: 50px;
+      }
+      .good {
+        display: none;
+      }
+      #ttr {
+        display: none;
+      }
+      .buttonxx {
+        display: none;
+      }
+      .navbar-toggler {
+        margin-left: 600px;
+        margin-top: -50px;
+      }
+      .logo4x img {
+        width: 150px;
+      }
+      .seaiconxx {
+        display: none;
+      }
+      .searxx {
+        margin-left: 500px;
+        margin-top: -70px;
+      }
+      .acctx {
+        margin-top: -30px;
+        margin-left: 150px;
+      }
+      .acctx  h4 {
+       font-size: 18px;
+      }
+      .acctx p {
+        margin-top: -5px;
+        font-size: 16px;
+      }
+      .form-controllerx {
+        width: 337px;
+        font-size: 14px;
+        margin-top: -8px;
+      }
+      .greggxx {
+        margin-top: -200px;
+        margin-left: 100px;
+      }
+
+      .footerxx {
+        margin-top: 12px;
+      }
+      .hellepx {
+        margin-top: -150px;
+        margin-left: 520px;
+      }
+      .platformx img{
+        width: 720px;
+      }
+      .assetsproviderx {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+      .stipulatex {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+      .nerceligiblexx h5 {
+        font-size: 20px;
+        margin-left: 150px;
+      }
+      .nerceligiblexx img {
+        margin-left: 180px;
+        width: 350px;
+        height: auto;
+      }
+      .carousel-caption h5 {
+        font-size: 20px;
+       }
+       .carousel-caption p {
+         font-size: 18px;
+       }
+
+
+
+
+
+
+  }
+
+
+  /* 
+  big tablets/small laptops */
+
+  @media (min-width: 751px) and (max-width: 790px) {
+    .carousel-item img {
+        width: 100%;
+        height: auto;
+      }
+
+      .copyxx h3 {
+        margin-top: 20px;
+       margin-left: 130px;
+       font-size: 14px;
+      }
+      .iconxxx li {
+        margin-left: 20px;
+      }
+      .faq h5 {
+        margin-left: 180px;
+      }
+      .faq h4 {
+        margin-left: 250px;
+      }
+      .faq p {
+        margin-left: 200px;
+      }
+      .faq h6 {
+        margin-left: 100px;
+      }
+      .faq h3 {
+        margin-left: 325px;
+      }
+
+      .faq1 h5 {
+       margin-left: 180px;
+      }
+      .faq1 h3 {
+        margin-left: 220px;
+      }
+      .faq1 p {
+        margin-left: 220px;
+      }
+      .faq1 h6 {
+        margin-left: 80px;
+      }
+      .faq1 h4 {
+       margin-left:325px ;
+      }
+
+      .iconxxx {
+        display: none;
+      }
+      .headerx {
+        margin-top: 10px;
+        font-size: 10px;
+       padding-left: 10px;
+       margin-left: 200px;
+      }
+      
+      .logox img {
+        margin-left: 20px;
+        width: 100px;
+      }
+      .nav-item a {
+        font-size: 11px;
+        margin-left: 600px;
+      }
+      .buttonxx {
+        margin-left: 80px;
+        margin-top: -25px;
+      }
+      .login {
+        width: 25%;
+      }
+      .connect{
+       width: 35%;
+      }
+      
+      .bella {
+        margin-top: -1px;
+      }
+      .carousel-item h5 {
+        font-size: 38px;
+       }
+       .carousel-item p {
+        font-size: 20px;
+       }
+       .magx {
+        margin-left: 170px;
+        margin-top: -30px;
+       }
+       .mapux  {
+        margin-left: 30px;
+      }
+      .bisi {
+        margin-left: 10px;
+        margin-top: 40px;
+      }
+      .yaa {
+        margin-left: 10px;
+        margin-top: -5px;
+      }
+      .socialxx h3 {
+        margin-top: -20px;
+        margin-left: 50px;
+      }
+      .good {
+        display: none;
+      }
+      #ttr {
+        display: none;
+      }
+      .buttonxx {
+        display: none;
+      }
+      .navbar-toggler {
+        margin-left: 600px;
+        margin-top: -50px;
+      }
+
+      .logo4x img {
+        width: 100px;
+      }
+
+      .seaiconxx {
+        display: none;
+      }
+      .searxx {
+        margin-left: 550px;
+        margin-top: -70px;
+      }
+      .greggxx {
+        margin-top: 250px;
+        margin-left: -820px;
+      }
+      .acctx p {
+        display: none;
+      }
+      .footerxx {
+        margin-top: -250px;
+      }
+      .bulbimg img {
+        width: 100%;
+      }
+      .form-controllerx {
+        width: 337px;
+        font-size: 14px;
+        margin-top: -8px;
+      }
+
+
+
+
+
+  }
+
+
+  @media (min-width: 791px) and (max-width: 890px) {
+    .carousel-item img {
+        width: 100%;
+        height: auto;
+      }
+
+      .copyxx h3 {
+        margin-top: 20px;
+       margin-left: 80px;
+       font-size: 14px;
+      }
+      .iconxxx li {
+        margin-left: 20px;
+      }
+      .faq h5 {
+        margin-left: 180px;
+      }
+      .faq h4 {
+        margin-left: 250px;
+      }
+      .faq p {
+        margin-left: 200px;
+      }
+      .faq h6 {
+        margin-left: 100px;
+      }
+      .faq h3 {
+        margin-left: 325px;
+      }
+
+      .faq1 h5 {
+       margin-left: 180px;
+      }
+      .faq1 h3 {
+        margin-left: 220px;
+      }
+      .faq1 p {
+        margin-left: 220px;
+      }
+      .faq1 h6 {
+        margin-left: 80px;
+      }
+      .faq1 h4 {
+       margin-left:325px ;
+      }
+
+      .iconxxx {
+        margin-left: -70px;
+      }
+      .headerx {
+        margin-top: 10px;
+        font-size: 10px;
+       padding-left: 10px;
+       margin-left: 200px;
+      }
+      
+      .logox img {
+        margin-left: 20px;
+        width: 100px;
+      }
+      .nav-item a {
+        font-size: 11px;
+        margin-left: 600px;
+      }
+      .buttonxx {
+        margin-left: 80px;
+        margin-top: -25px;
+      }
+      .login {
+        width: 25%;
+      }
+      .connect{
+       width: 35%;
+      }
+      
+      .bella {
+        margin-top: -1px;
+      }
+      .carousel-item h5 {
+        font-size: 38px;
+       }
+       .carousel-item p {
+        font-size: 20px;
+       }
+       .magx {
+        margin-left: 170px;
+        margin-top: -30px;
+       }
+       .mapux  {
+        margin-left: 30px;
+      }
+      .bisi {
+        margin-left: 10px;
+        margin-top: 40px;
+      }
+      .yaa {
+        margin-left: 10px;
+        margin-top: -5px;
+      }
+      .socialxx h3 {
+        margin-top: -20px;
+        margin-left: 50px;
+      }
+      .good {
+        display: none;
+      }
+      #ttr {
+        display: none;
+      }
+      .buttonxx {
+        display: none;
+      }
+      .navbar-toggler {
+        margin-left: 600px;
+        margin-top: -50px;
+      }
+
+      .logo4x img {
+        width: 100px;
+      }
+
+      .seaiconxx {
+        display: none;
+      }
+      .searxx {
+        margin-left: 550px;
+        margin-top: -70px;
+      }
+      .greggxx {
+        margin-top: 250px;
+        margin-left: -820px;
+      }
+      .acctx p {
+        display: none;
+      }
+      .footerxx {
+        margin-top: 50px;
+        font-size: 20px;
+      }
+      .bulbimg img {
+        width: 100%;
+      }
+      .form-controllerx {
+        width: 337px;
+        font-size: 14px;
+        margin-top: -8px;
+      }
+      .hellepx {
+        display: none;
+      }
+      .platformx img{
+        width: 850px;
+      }
+      .assetsproviderx {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+      .stipulatex {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+      
+      
+
+
+
+
+  }
+
+
+
+
+
+
+  /* 
+  big tablets/small laptops */
+
+  @media (min-width: 891px) and (max-width: 901px) {
+    .carousel-item img {
+        width: 100%;
+        height: auto;
+      }
+
+      .copyxx h3 {
+        margin-top: 20px;
+       margin-left: 80px;
+       font-size: 16px;
+      }
+      .iconxxx li {
+        margin-left: 20px;
+      }
+      .faq h5 {
+        margin-left: 180px;
+      }
+      .faq h4 {
+        margin-left: 250px;
+      }
+      .faq p {
+        margin-left: 200px;
+      }
+      .faq h6 {
+        margin-left: 100px;
+      }
+      .faq h3 {
+        margin-left: 325px;
+      }
+      
+      .faq1 h5 {
+       margin-left: 180px;
+      }
+      .faq1 h3 {
+        margin-left: 220px;
+      }
+      .faq1 p {
+        margin-left: 220px;
+      }
+      .faq1 h6 {
+        margin-left: 80px;
+      }
+      .faq1 h4 {
+       margin-left:325px ;
+      }
+
+      .iconxxx {
+        margin-left: -60px;
+      }
+      .headerx {
+        margin-top: 10px;
+        font-size: 10px;
+       padding-left: 10px;
+       margin-left: 200px;
+      }
+      
+      .logox img {
+        margin-left: 50px;
+        width: 100px;
+      }
+      .nav-item a {
+        font-size: 11px;
+        margin-left: 600px;
+      }
+      .buttonxx {
+        margin-left: 80px;
+        margin-top: -25px;
+      }
+      .login {
+        width: 25%;
+      }
+      .connect{
+       width: 25%;
+      }
+      
+      .bella {
+        margin-top: -1px;
+      }
+      .carousel-item h5 {
+        font-size: 38px;
+       }
+       .carousel-item p {
+        font-size: 20px;
+       }
+       .magx {
+        display: none;
+       }
+       .mapux  {
+        margin-left: 30px;
+      }
+      .bisi {
+        margin-left: 10px;
+        margin-top: 40px;
+      }
+      .yaa {
+        margin-left: 10px;
+        margin-top: -5px;
+      }
+      .socialxx h3 {
+        margin-top: -20px;
+        margin-left: 50px;
+      }
+      .good {
+        display: none;
+      }
+      #ttr {
+        display: none;
+      }
+      .buttonxx {
+        display: none;
+      }
+      .navbar-toggler {
+        margin-left: 700px;
+        margin-top: -50px;
+      }
+      .obehi {
+        margin-top: -1px;
+        
+      }
+      #edith {
+        display: block;
+        margin-left: 230px;
+  
+      }
+
+      #edith i{
+        color: white;
+      }
+      .acctx {
+        margin-top: -30px;
+        margin-left: 150px;
+      }
+      .acctx  h4 {
+       font-size: 18px;
+      }
+      .acctx p {
+        margin-top: -5px;
+        font-size: 16px;
+      }
+      .form-controllerx {
+        width: 337px;
+        font-size: 14px;
+        margin-top: -8px;
+      }
+      .greggxx {
+        margin-top: -200px;
+        margin-left: 100px;
+      }
+
+      .footerxx {
+        margin-top: 12px;
+        font-size: 22px;
+      }
+      .logo4x img {
+        width: 150px;
+      }
+      .seaiconxx {
+        display: none;
+      }
+      .searxx {
+        margin-left: 630px;
+        margin-top: -40px;
+      }
+      .hellepx {
+        margin-left: 700px;
+        margin-top: -150px;
+      }
+      .platformx img {
+        margin-left: -70px;
+      }
+      .assetsproviderx {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+      .stipulatex {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+
+
+
+
+
+  }
+
+  /* 
+  big tablets/small laptops */
+
+  @media (min-width: 902px) and (max-width: 1000px) {
+    .carousel-item img {
+        width: 100%;
+        height: auto;
+      }
+
+      .copyxx h3 {
+        margin-top: 20px;
+       margin-left: 130px;
+       font-size: 16px;
+      }
+      .iconxxx li {
+        margin-left: 20px;
+      }
+      .faq h5 {
+        margin-left: 180px;
+      }
+      .faq h4 {
+        margin-left: 250px;
+      }
+      .faq p {
+        margin-left: 200px;
+      }
+      .faq h6 {
+        margin-left: 100px;
+      }
+      .faq h3 {
+        margin-left: 325px;
+      }
+
+      .faq1 h5 {
+       margin-left: 180px;
+      }
+      .faq1 h3 {
+        margin-left: 220px;
+      }
+      .faq1 p {
+        margin-left: 220px;
+      }
+      .faq1 h6 {
+        margin-left: 80px;
+      }
+      .faq1 h4 {
+       margin-left:325px ;
+      }
+
+      .iconxxx {
+        display: none;
+      }
+      .headerx {
+        margin-top: 10px;
+        font-size: 10px;
+       padding-left: 10px;
+       margin-left: 280px;
+      }
+      
+      .logox img {
+        margin-left: 50px;
+        width: 100px;
+      }
+      .nav-item a {
+        font-size: 11px;
+        margin-left: 600px;
+      }
+      .buttonxx {
+        margin-left: 80px;
+        margin-top: -25px;
+      }
+      .login {
+        width: 25%;
+      }
+      .connect{
+       width: 35%;
+      }
+      
+      .bella {
+        margin-top: -1px;
+      }
+      .carousel-item h5 {
+        font-size: 38px;
+       }
+       .carousel-item p {
+        font-size: 20px;
+       }
+       .magx {
+        margin-left: 200px;
+        margin-top: -30px;
+       }
+       .mapux  {
+        margin-left: 30px;
+      }
+      .bisi {
+        margin-left: 10px;
+        margin-top: 40px;
+      }
+      .yaa {
+        margin-left: 10px;
+        margin-top: -5px;
+      }
+      .socialxx h3 {
+        margin-top: -20px;
+        margin-left: 50px;
+      }
+      .good {
+        display: none;
+      }
+      #ttr {
+        display: none;
+      }
+      .buttonxx {
+        display: none;
+      }
+      .navbar-toggler {
+        margin-left: 700px;
+        margin-top: -50px;
+      }
+      .acctx {
+        margin-top: -30px;
+        margin-left: 150px;
+      }
+      .acctx  h4 {
+       font-size: 18px;
+      }
+      .acctx p {
+        margin-top: -5px;
+        font-size: 16px;
+      }
+      .form-controllerx {
+        width: 337px;
+        font-size: 14px;
+        margin-top: -8px;
+      }
+      .greggxx {
+        margin-top: -200px;
+        margin-left: 100px;
+      }
+
+      .footerxx {
+        margin-top: 12px;
+      }
+      .logo4x img{
+        width: 150px;
+      }
+      .seaiconxx {
+        display: none;
+      }
+      .searxx {
+        margin-left: 650px;
+        margin-top:-70px;
+      }
+      .hellepx {
+        margin-left: 620px;
+        margin-top: -100px;
+      }
+      .powered1xx {
+        margin-left: 20px;
+      }
+      .platformx img {
+        margin-left: -100px;
+      }
+      .assetsproviderx {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+      .stipulatex {
+        margin-left: -5px;
+        font-size: 6px;
+      }
+
+
+
+
+
+  }
+
+
+
+/* 
+  big tablets/small laptops */
+
+  @media (min-width: 1001px) and (max-width: 1199.98px) {
+    .carousel-item img {
+        width: 100%;
+        height: auto;
+      }
+
+      .copyxx h3 {
+        margin-top: 20px;
+       margin-left: 120px;
+       font-size: 16px;
+      }
+      .iconxxx li {
+        margin-left: 20px;
+      }
+      .faq h5 {
+        margin-left: 40px;
+      }
+      .faq h4 {
+        margin-left: 50px;
+      }
+      .faq p {
+        margin-left: 50px;
+      }
+      .faq h6 {
+        margin-left: -50px;
+      }
+      .faq h3 {
+        margin-left: 175px;
+      }
+
+      .faq1 h5 {
+       margin-left: 40px;
+      }
+      .faq1 h3 {
+        margin-left: 90px;
+      }
+      .faq1 p {
+        margin-left: 80px;
+      }
+      .faq1 h6 {
+        margin-left: -45px;
+      }
+      .faq1 h4 {
+       margin-left: 200px ;
+      }
+
+      .iconxxx {
+        margin-left: -40px;
+      }
+      .headerx {
+        margin-top:-2px;
+        font-size: 20px;
+       padding-left: 3px;
+      }
+      #well {
+        display: none;
+      }
+      
+      .header3 {
+        margin-left: -20px;
+      }
+      .logox img {
+        margin-left: 20px;
+      }
+      .nav-item a {
+        font-size: 10px;
+        margin-left: -10px;
+      }
+      .buttonxx {
+        margin-left: -35px;
+        display: none;
+      }
+      .carousel-captionxx h5 {
+        margin-top: 20px;
+      }
+      .carousel-item h5 {
+       font-size: 60px;
+      }
+      .mapux  {
+        margin-left: -10px;
+      }
+      .mapux h2 {
+        margin-left: 30px;
+      }
+      .bisi {
+        margin-left: 300px;
+        margin-top: 40px;
+      }
+      .yaa {
+        margin-left: 10px;
+        margin-top: -5px;
+      }
+      .socialxx h3 {
+        margin-top: -20px;
+        margin-left: 50px;
+      }
+      .header2 {
+        display: none;
+      }
+
+      .good{
+        list-style-type: none;
+        display: flex;
+        margin-left: -23px;
+    }
+    .good a{
+        color: white;
+        text-decoration: none;
+    }
+    .good li {
+        margin-top: 7px;
+        margin-left: 3px;
+        padding-right: 8px;
+    }
+    .good a {
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .good i{
+        padding-right: 6px;
+    }
+    .magx {
+      display: none;
+    }
+    .head3x {
+      margin-left: -150px;
+    }
+    .acctx {
+      margin-top: -30px;
+      margin-left: 150px;
+    }
+    .acctx  h4 {
+     font-size: 18px;
+    }
+    .acctx p {
+      margin-top: -5px;
+      font-size: 16px;
+    }
+    .form-controllerx {
+      width: 337px;
+      font-size: 14px;
+      margin-top: -8px;
+    }
+    .greggxx {
+      margin-top: -380px;
+      margin-left: 350px;
+    }
+
+    
+    .logo4x img{
+      width: 150px;
+    }
+    .seaiconxx {
+      display: none;
+    }
+    .searxx {
+      margin-left: -50px;
+      margin-top:-10px;
+    }
+    .hellepx {
+      margin-left: 620px;
+      margin-top: -150px;
+    }
+    .footerxx3 {
+      font-size: 20px;
+    }
+    .platformx h3 {
+      font-size: 20px;
+      text-align: center;
+    }
+    .assetsproviderx {
+      margin-left: -5px;
+      font-size: 6px;
+    }
+    .stipulatex a {
+      margin-left: -150px;
+      margin-top: -100px;
+    }
+    .carousel-caption h5 {
+      font-size: 40px;
+     }
+     .carousel-caption p {
+       font-size: 20px;
+     }
+    
+  
+    
+
+    
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+
+
+
+
+
+  
+  /* Large devices (desktops, 768px and up) */
+  @media (min-width: 1199.99px) and (max-width: 1201px) {
+
+    .magx {
+        display: none;
+    }
+
+   .logox img {
+    margin-left: 30px;
+   }
+   
+   .bouy {
+    margin-left: -50px;
+   }
+   
+   .good {
+    display: none;
+   }
+   .headerx {
+    margin-top:4px;
+    font-size: 5px;
+   padding-left: -2px;
+  }
+  #ttr {
+    display: none;
+  }
+  .nav-item a {
+    font-size: 12px;
+    
+  }
+  .buttonxx li a{
+    text-decoration: none;
+    color: white;
+    font-size: 8px;
+    margin-right: 3px;
+
+}
+.acctx {
+  margin-top: -30px;
+  margin-left: 150px;
+}
+.acctx  h4 {
+ font-size: 18px;
+}
+.acctx p {
+  margin-top: -5px;
+  font-size: 16px;
+}
+.form-controllerx {
+  width: 337px;
+  font-size: 14px;
+  margin-top: -8px;
+}
+.greggxx {
+  margin-top: -420px;
+  margin-left: 500px;
+}
+
+.footerxx {
+  margin-top: 231px;
+  font-size: 22px;
+}
+.logo4x img {
+  width: 150px;
+}
+.seaiconxx {
+  display: none;
+}
+.searxx {
+  margin-left: -40px;
+  margin-top: 40px;
+}
+
+.hellepx {
+  margin-left: 700px;
+  margin-top: -150px;
+}
+.platformx img {
+  margin-left: -30px;
+}
+.assetsproviderx {
+  margin-left: -5px;
+  font-size: 6px;
+}
+.stipulatex {
+  margin-left: -5px;
+  font-size: 6px;
+}
+  
+
+  
+  
+
+
+
+
+
+
+  }
+
+
+/* Large devices (desktops, 768px and up) */
+@media (min-width: 1202px) and (max-width: 1401px) {
+
+  .good {
+    display: none;
+   }
+   .acctx {
+    margin-top: -30px;
+    margin-left: 150px;
+  }
+  .acctx  h4 {
+   font-size: 18px;
+  }
+  .acctx p {
+    margin-top: -5px;
+    font-size: 16px;
+  }
+  .form-controllerx {
+    width: 337px;
+    font-size: 14px;
+    margin-top: -8px;
+  }
+  .greggxx {
+    margin-top: -380px;
+    margin-left: 700px;
+  }
+
+  
+  .logo4x img{
+    width: 150px;
+  }
+  .seaiconxx {
+    display: none;
+  }
+  .searxx {
+    margin-left: -50px;
+    margin-top:-10px;
+  }
+  .buttonxx li a {
+    font-size: 9px;
+  }
+  .magx {
+    display: none;
+  }
+  .hellepx {
+    margin-left: 250px;
+    margin-top: -150px;
+  }
+  .assetsproviderx {
+    margin-left: -5px;
+    font-size: 6px;
+  }
+  .stipulatex a {
+    margin-left: -150px;
+    margin-top: -100px;
+  }
+  
+  
+
+
+  
+}
+
+/* Large devices (desktops, 768px and up) */
+@media (min-width: 1402px) and (max-width: 1601px) {
+
+  .good {
+    display: none;
+   }
+   .acctx {
+    margin-top: -30px;
+    margin-left: 150px;
+  }
+  .acctx  h4 {
+   font-size: 18px;
+  }
+  .acctx p {
+    margin-top: -5px;
+    font-size: 16px;
+  }
+  .form-controllerx {
+    width: 337px;
+    font-size: 14px;
+    margin-top: -8px;
+  }
+  .greggxx {
+    margin-top: -380px;
+    margin-left: 700px;
+  }
+
+  .footerxx {
+    margin-top: 191px;
+  }
+  .logo4x img{
+    width: 150px;
+  }
+  .seaiconxx {
+    display: none;
+  }
+  .searxx {
+    margin-left: -50px;
+    margin-top:-10px;
+  }
+  .buttonxx li a {
+    font-size: 9px;
+  }
+  .magx {
+    display: none;
+  }
+  .hellepx {
+    margin-left: 450px;
+    margin-top: -100px;
+  }
+
+
+  
+}
+
+
+
+
+
+/* Large devices (desktops, 768px and up) */
+@media (min-width: 1602px) and (max-width: 1801px) {
+
+  .good {
+    display: none;
+   }
+   .hellepx {
+    margin-left: 700px;
+    margin-top: -90px;
+  }
+
+  
+}
+
+
+
+  /* Large devices (desktops, 768px and up) */
+  @media (min-width: 1802px) and (max-width: 2001px) {
+
+    .good {
+      display: none;
+     }
+
+    
+  }
+
+  /* Large devices (desktops, 768px and up) */
+  @media (min-width: 2002px) and (max-width: 3601px) {
+    .good {
+      display: none;
+    }
+    .login {
+      width: 60px;
+    }
+    .connect {
+      width: 100px;
+    }
+    .nav-item {
+      margin-left: 50px;
+    }
+    .logox img {
+      width: 100px;
+    }
+    .footerxx {
+      font-size: 25px;
+    }
+    .hellepx {
+      margin-left: 700px;
+      margin-top: -150px;
+    }
+    .platformx img {
+      margin-left: 500px;
+    }
+    .platformx h3 {
+      margin-left: 700px;
+    }
+
+    
+  }
+
+  /* Large devices (desktops, 768px and up) */
+  @media (min-width: 3602px) and (max-width: 4600px) {
+    .good {
+      display: none;
+     }
+
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
