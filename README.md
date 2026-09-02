@@ -34,7 +34,7 @@ The project was created as a frontend development project to practice building m
 ```text
 Obehi_energy/
 ├── css/
-├── js/
+├── js/js/
 ├── scss/
 ├── less/
 ├── fonts/
